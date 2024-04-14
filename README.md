@@ -1,1 +1,3 @@
-# prova_base
+# First entry
+
+Simple repo to practice basis git commands
