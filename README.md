@@ -24,5 +24,9 @@ Third diff
 
 
 \
+<<<<<<< HEAD
 Whatever
 >>>>>>> 652ac6d (aligning README)
+=======
+Whatever. Trying cherry-pick.
+>>>>>>> 6a715dd (trying cherry-pick)
